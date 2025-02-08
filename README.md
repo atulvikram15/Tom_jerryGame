@@ -15,9 +15,9 @@ Speed Boost (Green): Increases Jerry's speed.
 
 Slowdown (Red): Decreases Jerry's speed.
 
-7.Game Over Mechanic: If Tom catches Jerry, the game ends.
+5.Game Over Mechanic: If Tom catches Jerry, the game ends.
 
-8.Restart Feature: Press 'R' to restart after getting caught.
+6.Restart Feature: Press 'R' to restart after getting caught.
 
 How to Play:
 1.Run the Python script.
